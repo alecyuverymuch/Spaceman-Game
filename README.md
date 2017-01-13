@@ -9,7 +9,7 @@ https://www.visualstudio.com/vs/
 SFML download can be found at:  
 http://www.sfml-dev.org/download.php  
 ### To Run:
-Download Visual Studio IDE and SFML. Then in Visual Studio, create a new project (Console Application is recomended). Then you must configure it with SFML. Instructions can be found here:  
+Download Visual Studio IDE and SFML. Then in Visual Studio, create a new project (Console Application is recomended). Then you must configure the project with SFML. Instructions can be found here:  
 http://www.sfml-dev.org/tutorials/2.4/start-vc.php  
 Then add in the following files to the source folder:  
 `main.cpp`, `Player.cpp`, `Player.h`, `Terrain.cpp`, and `Terrain.h`  
