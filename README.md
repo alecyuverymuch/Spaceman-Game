@@ -15,4 +15,4 @@ Then add in the following files to the source folder:
 `main.cpp`, `Player.cpp`, `Player.h`, `Terrain.cpp`, and `Terrain.h`  
 All art used in the project is in the zip file:  
 `ArtUsed.zip`  
-Unpack it and add all the images to the source folder along with the code. Then run the main.cpp file with the Visual Studio Debugger.
+Unpack it and add all the images to the source folder along with the code. Then open the project in the Visual Studio IDE and run the main.cpp file with the Visual Studio Debugger.
